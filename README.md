@@ -74,4 +74,4 @@ footer {
   padding: 10px;
   background-color: #4b2c5f;
   color: #ccc;
-}
+} agregando codigo generado
